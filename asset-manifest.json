@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-dice/static/css/main.d932b041.css",
+    "main.js": "/react-dice/static/js/main.87cc6670.js",
+    "index.html": "/react-dice/index.html",
+    "main.d932b041.css.map": "/react-dice/static/css/main.d932b041.css.map",
+    "main.87cc6670.js.map": "/react-dice/static/js/main.87cc6670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d932b041.css",
+    "static/js/main.87cc6670.js"
+  ]
+}
